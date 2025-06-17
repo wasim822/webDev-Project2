@@ -1,0 +1,40 @@
+{
+  "student": [
+        {
+        "firstName": "John",
+        "lastName": "Doe",
+        "phoneNumber": "123-456-7890",
+        "dob": "2005-01-01",
+        "grade": "10"
+        },
+        {
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "phoneNumber": "987-654-3210",
+        "dob": "2006-02-02",
+        "grade": "9"
+        },
+        {
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "phoneNumber": "555-555-5555",
+        "dob": "2004-03-03",
+        "grade": "11"
+        },
+        {
+        "firstName": "Bob",
+        "lastName": "Brown",
+        "phoneNumber": "444-444-4444",
+        "dob": "2003-04-04",
+        "grade": "12"
+        },
+        {
+        "firstName": "Charlie",
+        "lastName": "Davis",
+        "phoneNumber": "333-333-3333",
+        "dob": "2002-05-05",
+        "grade": "12"
+        }
+    ]
+
+} 
