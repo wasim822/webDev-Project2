@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import Navbar from './components/Navbar';
-import Footer from './components/Footer';
-import StudentList from './components/StudentList';
-import AddStudentForm from './components/AddStudentForm';
+import Footer from './Footer';
+import StudentList from './StudentList';
+import AddStudentForm from './AddStudentForm';
 
 const App = () => {
   const [students, setStudents] = useState([]);
